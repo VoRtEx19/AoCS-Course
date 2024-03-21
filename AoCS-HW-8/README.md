@@ -1,2 +1,2 @@
 # AoCS HW 8
- Lev Svetlichnyi AoCS HW 8
+ AoCS HW 8
